@@ -2,8 +2,7 @@
 *Convierte un producto de higiene en algo más higiénico*
 *#CienciaEnCasa*
 
-![Gif mostrando el funcionamiento del dispensador](/img/dispensador de gel armado prueba 01.gif)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Gif mostrando el funcionamiento del dispensador](/img/dispensador_prueba_01.gif)
 
 Lavarse las manos regularmente en una buena forma de evitar enfermedades. 
 Con ello evitamos la propagación de gérmes y que esos gérmenes entren a nuestro cuerpo. 
