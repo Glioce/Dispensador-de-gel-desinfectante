@@ -6,15 +6,14 @@
 
 Lavarse las manos regularmente en una buena forma de evitar enfermedades. 
 Con ello evitamos la propagación de gérmes y que esos gérmenes entren a nuestro cuerpo. 
-En lugares en los que no tenemos agua y jabón disponibles, el gel desinfectante es una 
-buena opción para mantener nuestras manos limbres de gérmenes.
+En lugares en los que no tenemos agua y jabón disponible, el gel desinfectante es una 
+buena opción para mantener nuestras manos libres de gérmenes.
 
 En este artículo se explican a detalle los pasos para armar un dispensador automático 
 de gel desinfectante. Se instala sobre un dispensador común y permite extraer gel sin 
 necesidad de tocarlo.
 
 ## Paso 1: Reunir los materiales
-
 + 1 Sensor Reflectivo TCRT5000
 + 1	Resistencia 100 ohm
 + 1	Resistencia 10 kohm
@@ -36,4 +35,4 @@ Calidad: Baja (altura de capa 0.28 mm)
 Infill: 20 %
 No requieren soportes y se pueden imprimir juntas o separadas.
 
-
+![Captura de Cura](cama_impresora.png)
