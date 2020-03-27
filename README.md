@@ -1,7 +1,8 @@
 # Dispensador de Gel Desinfectante
 *Convierte un producto de higiene en algo más higiénico*
-*Ciencia en casa*
+*#CienciaEnCasa*
 
+![Gif mostrando el funcionamiento del dispensador](/img/dispensador de gel armado prueba 01.gif)
 Lavarse las manos regularmente en una buena forma de evitar enfermedades. 
 Con ello evitamos la propagación de gérmes y que esos gérmenes entren a nuestro cuerpo. 
 En lugares en los que no tenemos agua y jabón disponibles, el gel desinfectante es una 
