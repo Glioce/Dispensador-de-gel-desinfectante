@@ -27,3 +27,11 @@ necesidad de tocarlo.
 + Impresión 3D
 
 ### Paso 1.1: Impresión 3D
+Las piezas se imprimieron en **PLA** usando los siguientes parámetros:
+Slicer: Ultimaker Cura
+Impresora: Ender 3
+Calidad: Baja (altura de capa 0.28 mm)
+Infill: 20 %
+No requieren soportes y se pueden imprimir juntas o separadas.
+
+
