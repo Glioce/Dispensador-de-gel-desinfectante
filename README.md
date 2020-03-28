@@ -28,6 +28,7 @@ necesidad de tocarlo.
 + 2	Tornillos M3 x 10
 + 2 Tornillos M3 x 20
 + 1 Tornillo M3 x 25
++ 1 Tuerca M3
 + Impresión 3D
 
 ### Paso 1.1: Impresión 3D
