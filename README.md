@@ -25,7 +25,9 @@ necesidad de tocarlo.
 + 8	Jumpers
 + 3	Pines macho
 + 3	Cinchillos de plástico
-+ 5	Tornillo M3
++ 2	Tornillos M3 x 10
++ 2 Tornillos M3 x 20
++ 1 Tornillo M3 x 25
 + Impresión 3D
 
 ### Paso 1.1: Impresión 3D
