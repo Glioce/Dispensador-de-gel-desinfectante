@@ -37,4 +37,8 @@ Infill: 20 %
 No requieren soportes y se pueden imprimir juntas o separadas.  
 ![Captura de Cura](/img/cama_impresora.png)
 
-## Paso 2: 
+## Paso 2: Armar circuito
+
+## Paso 2.1: Sensor infrarrojo
+
+## Paso 
