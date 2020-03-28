@@ -78,5 +78,24 @@ Coloca 2 tornillos M3x10 en la pieza que parece una escalera, después atornilla
 Coloca el esamblaje anterior en la tapa del dispensador. Luego inserta dos tornillos M3x20 en la pieza con una ranura. También se atornilla en la pieza cilíndrica.
 ![pieza con ranura y tornillos](/img/lateral.jpg)
 
-Inserta la palanca en la pieza con ranura. Usa un tornillo M3x25 y una tuerca para unir las piezas sin apretar demasiado para que la palanca pueda rotar libremente.
+Inserta la palanca en la pieza con ranura. Usa un tornillo M3x25 y una tuerca para unir las piezas sin apretar demasiado para que la palanca pueda rotar libremente.  
 ![palanca](/img/palanca.jpg)
+
+## Paso 5: Instalar componentes electrónicos
+Atornillar el servomotor en el extremo de la pieza que parece escalera
+![fijar servo](/img/fijar_servo.jpg)
+
+Fijar el Arduino, el sensor y los cables a la pieza que parece escalera con cinchillos y alambre
+![fijar cables](/img/poner_todo.jpg)
+
+## Paso 6: Ajustes
+Si no has programado el Arduino, ahora es el momento, descarga el código del repositorio y ...
+Es recomendable desconectar los cables del servomotor para que no se mueva mientras se realiza la programación.
+
+Conecta el cargador USB a la toma de corriente y el cable de alimentación al cargador para encender el circuito.
+El servo se moverá a la posición inical, donde la palanca se encuentra levantada. Ahora desconecta el circuito.
+Instala el accesorio del servo, debe quedar apuntando hacia arriba. Amarra un hilo en la punta del accesorio.
+Después inserta el hilo en el orificio de la palanca y jala hacia abajo para tensarlo, 
+de modo que presione un poco la bomba del dispensador. Amarra el hilo sin que deje de estar tenso.
+
+Ya está listo.
