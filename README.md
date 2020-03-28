@@ -84,6 +84,10 @@ Coloca el esamblaje anterior en la tapa del dispensador. Luego inserta dos torni
 Inserta la palanca en la pieza con ranura. Usa un tornillo M3x25 y una tuerca para unir las piezas sin apretar demasiado para que la palanca pueda rotar libremente.  
 ![palanca](/img/palanca.jpg)
 
+Fijar todo el ensamblaje a la tapa con cinchillos de plástico
+![insertar cinchos](/img/insertar_cinchos.jpg)
+![ajustar cinchillos](/img/ajustar_cinchillos.jpg)
+
 ## Paso 5: Instalar componentes electrónicos
 Atornillar el servomotor en el extremo de la pieza que parece escalera
 ![fijar servo](/img/fijar_servo.jpg)
