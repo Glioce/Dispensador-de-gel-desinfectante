@@ -14,6 +14,7 @@ de gel desinfectante. Se instala sobre un dispensador común y permite extraer g
 necesidad de tocarlo.
 
 ## Paso 1: Reunir los materiales
+![Foto de componentes](/img/componentes_01.jpg)
 + 1 Sensor Reflectivo TCRT5000
 + 1	Resistencia 100 ohm
 + 1	Resistencia 10 kohm
@@ -34,5 +35,6 @@ Impresora: Ender 3
 Calidad: Baja (altura de capa 0.28 mm)
 Infill: 20 %
 No requieren soportes y se pueden imprimir juntas o separadas.
+![Captura de Cura](/img/cama_impresora.png)
 
-![Captura de Cura](cama_impresora.png)
+## Paso 2: 
