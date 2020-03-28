@@ -39,7 +39,15 @@ No requieren soportes y se pueden imprimir juntas o separadas.
 
 ## Paso 2: Armar circuito
 ![Esquemático](/img/esquematico1.png)
+El circuito tiene 4 componentes principales: la fuente de alimentación; un sensor infrarrojo que detecta si hay un objeto cercano; un Arduino que lee el estado del sensor y envía pulsos al servo; y el servo que mueve la palanca del dispensador. 
 
-## Paso 2.1: Sensor infrarrojo
+### Paso 2.1: Sensor infrarrojo
+![Esquemático del sensor](/img/sensor.png)
+El sensor está formado por un TCRT5000 y dos resistencias.  
+Cortar el pin positivo del diodo infrarrojo. Soldar resistencias y tres pines para formar el circuito que se muestra arriba. Así es más fácil conectar con jumpers.
+
+![TCRT5000 original](/img/sen_01.jpg)
+![TCRT5000 con resistencias y pines](/img/sen_02.jpg)
+![TCRT5000 conectado con jumpers](/img/sen_03.jpg)
 
 ## Paso 
