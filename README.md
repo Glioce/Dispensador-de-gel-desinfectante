@@ -9,8 +9,8 @@ Con ello evitamos la propagación de gérmes y que esos gérmenes entren a nuest
 En lugares en los que no tenemos agua y jabón disponible, el gel desinfectante es una 
 buena opción para mantener nuestras manos libres de gérmenes.
 
-En este artículo se explican a detalle los pasos para armar un dispensador automático 
-de gel desinfectante. Se instala sobre un dispensador común y permite extraer gel sin 
+En este artículo se explican los pasos para armar un dispensador automático de gel 
+desinfectante. Se instala sobre un dispensador común y permite extraer gel sin 
 necesidad de tocarlo.
 
 ## Paso 1: Reunir los materiales
@@ -38,6 +38,7 @@ No requieren soportes y se pueden imprimir juntas o separadas.
 ![Captura de Cura](/img/cama_impresora.png)
 
 ## Paso 2: Armar circuito
+![Esquemático](/img/esquematico1.png)
 
 ## Paso 2.1: Sensor infrarrojo
 
