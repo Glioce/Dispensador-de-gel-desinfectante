@@ -50,4 +50,13 @@ Cortar el pin positivo del diodo infrarrojo. Soldar resistencias y tres pines pa
 ![TCRT5000 con resistencias y pines](/img/sen_02.jpg)
 ![TCRT5000 conectado con jumpers](/img/sen_03.jpg)
 
-## Paso 
+### Paso 2.2: Cables de alimentación
+Usamos 2 jumpers hembra para alimentar el Arduino a través de las terminales GND y 5V.
+Otros 3 jumpers hembra se usan para conectar el sensor (GND-café, 5V-rojo, Salida-amarillo).
+El servo se conecta con 3 jumpers macho (café, rojo y naranja).
+
+Cortar los 3 jumpers rojos y los 3 jumpers cafés, pelar las puntas y unir los cables.
+También unir las puntas del cable USB y aplicar soldadura. Aislar con tubo termoretráctil (thermofit).
+
+### Paso 3.3: Conexiones finales
+Conectar el Arduino.
