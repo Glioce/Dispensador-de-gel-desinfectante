@@ -58,5 +58,12 @@ El servo se conecta con 3 jumpers macho (café, rojo y naranja).
 Cortar los 3 jumpers rojos y los 3 jumpers cafés, pelar las puntas y unir los cables.
 También unir las puntas del cable USB y aplicar soldadura. Aislar con tubo termoretráctil (thermofit).
 
+![Cables enrollados](/img/cables_enrollados.jpg)
+![Cables soldados](/img/cables_soldados.jpg)
+![Cables con thermofit](/img/cables_thermofit.jpg)
+
 ### Paso 3.3: Conexiones finales
-Conectar el Arduino.
+Conectar jumpers al servo. Conectar jumpers al Arduino.
+
+![servo](/img/servo.jpg)
+![Arduino](/img/arduino.jpg)
