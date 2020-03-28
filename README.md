@@ -67,3 +67,16 @@ Conectar jumpers al servo. Conectar jumpers al Arduino.
 
 ![servo](/img/servo.jpg)
 ![Arduino](/img/arduino.jpg)
+
+## Paso 4: Unir piezas de impresión 3D
+![todas las piezas](/img/i3d.jpg)  
+
+Coloca 2 tornillos M3x10 en la pieza que parece una escalera, después atornilla en la pieza cilíndrica.
+![escalera](/img/esc.jpg)
+![escalera atornillada](/img/esc_tapa.jpg)
+
+Coloca el esamblaje anterior en la tapa del dispensador. Luego inserta dos tornillos M3x20 en la pieza con una ranura. También se atornilla en la pieza cilíndrica.
+![pieza con ranura y tornillos](/img/lateral.jpg)
+
+Inserta la palanca en la pieza con ranura. Usa un tornillo M3x25 y una tuerca para unir las piezas sin apretar demasiado para que la palanca pueda rotar libremente.
+![palanca](/img/palanca.jpg)
