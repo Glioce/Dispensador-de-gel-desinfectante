@@ -2,11 +2,7 @@
  * 
  * Un servomotor mueve una palanca que presiona una bomba de
  * gel antibacterial. El servo es controlado por un Arduino Nano 
- * y un sensor. Se pueden conectar varios tipos de sensores:
- *   + PIR
- *   + Ultrasónico
- *   + Infrarrojo
- * En esta versión se usa un sensor infrarrojo TCRT5000.
+ * y un sensor. En esta versión se usa un sensor infrarrojo TCRT5000.
  */
  
 #define PIN_SENSOR A4
